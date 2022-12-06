@@ -17,7 +17,8 @@ console.log(name);
 //===================================
 /**
  * Javascript Function
- *
+ * Javascript Object
+ * Javascript Array
  */
 const myFunction = function () {
   console.log("Function MY Function");
